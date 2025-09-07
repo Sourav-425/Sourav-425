@@ -23,7 +23,7 @@ Passionate about **clean code, UI/UX design, and automation**.
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav123&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav123&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sourav123&theme=radical)
-![Visitor Count](https://profile-counter.glitch.me/Sourav123/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Sourav-425/count.svg)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Sourav123&theme=radical)
 
 ---
