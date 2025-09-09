@@ -20,11 +20,11 @@ Passionate about **clean code, UI/UX design, and automation**.
 
 ## 📊 GitHub Stats
 
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav123&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sourav123&theme=radical)
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sourav-425&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-425&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sourav-425&theme=radical)
 ![Visitor Count](https://profile-counter.glitch.me/Sourav-425/count.svg)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sourav123&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sourav-425&theme=radical)
 
 ---
 
@@ -33,17 +33,17 @@ Passionate about **clean code, UI/UX design, and automation**.
 - [**JU-Dine-Desk**](https://github.com/Sourav123/JU-Dine-Desk) – Android food ordering app  
   ![JU-Dine-Desk Screenshot](https://link-to-your-screenshot.png)
 
-- [**Portfolio Website**](https://github.com/Sourav123/portfolio) – Personal portfolio website  
+- [**Portfolio Website**](https://github.com/Sourav-425/portfolio/) – Personal portfolio website  
   ![Portfolio Screenshot](https://link-to-your-screenshot.png)
 
-- [**Open-Source Contributions**](https://github.com/Sourav123) – Contributed to multiple projects improving features & fixing bugs
+- [**Open-Source Contributions**](https://github.com/Sourav-425) – Contributed to multiple projects improving features & fixing bugs
 
 ---
 
 ## 📫 Contact Me
 
 - **Email:** souravahmed118056@gmail.com  
-- **Facebook:** [Sourav Ahmed]([https://facebook.com/yourprofile](https://www.facebook.com/souravahmed425/)) 
+- **Facebook:**[Sourav Ahmed[https://www.facebook.com/souravahmed425/]]
 
 
 ---
